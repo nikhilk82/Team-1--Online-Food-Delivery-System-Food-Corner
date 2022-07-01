@@ -39,45 +39,36 @@ ng serve
 # Images of Application:
 1.
 
-![Home Page](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/1.png)
+![Home Page](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/1.png)
 
 2.
 
-![Category Page](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/2.png)
+![Category Page](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/2.png)
 
 3.
 
-![Category Page](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/3.png)
+![Category Page](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/3.png)
 
 4.
 
-![Category Page](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/4.png)
+![Category Page](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/4.png)
 
 5.
 
-![Category Page](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/5.png)
+![Category Page](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/5.png)
 
 6.
 
-![Cart](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/6.png)
+![Cart](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/6.png)
 
 7.
 
-![Sign up](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/7.png)
+![Sign up](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/7.png)
 
 8.
 
-![Sign in](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/8.png)
+![Sign in](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/8.png)
 
 9.
 
-![Sign in](https://github.com/nikhilk82/
-Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/9.png)
+![Sign in](https://github.com/nikhilk82/Team-1--Online-Food-Delivery-System-Food-Corner/blob/main/project_photos/9.png)
